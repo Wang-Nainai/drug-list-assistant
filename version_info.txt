@@ -1,0 +1,33 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 1, 1, 0),
+    prodvers=(1, 1, 1, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          '080404B0',
+          [
+            StringStruct('CompanyName', 'DrugListAssistant'),
+            StringStruct('FileDescription', '药单整理助手 - Excel 药品清单去重统计工具'),
+            StringStruct('FileVersion', '1.1.1.0'),
+            StringStruct('InternalName', 'DrugListAssistant'),
+            StringStruct('LegalCopyright', 'Copyright (C) 2026'),
+            StringStruct('OriginalFilename', '药单整理助手.exe'),
+            StringStruct('ProductName', '药单整理助手'),
+            StringStruct('ProductVersion', '1.1.1.0')
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)

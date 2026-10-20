@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Release binaries
+*.exe
+*.zip
+backup_*/
+
+# Local data and test outputs
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.log
+settings.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
