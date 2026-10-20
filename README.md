@@ -1,0 +1,3 @@
+# Drug List Assistant
+
+Initializing repository...
