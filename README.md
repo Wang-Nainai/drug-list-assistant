@@ -6,6 +6,11 @@
 
 开源地址：<https://github.com/Wang-Nainai/drug-list-assistant>
 
+## 下载
+
+- [最新版 Windows 单文件程序](https://github.com/Wang-Nainai/drug-list-assistant/releases/latest)
+- [全部发布版本](https://github.com/Wang-Nainai/drug-list-assistant/releases)
+
 ## 功能
 
 | 处理方式 | 分组规则 | 输出重点 |
